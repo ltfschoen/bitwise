@@ -67,3 +67,8 @@
   ```
   bundle exec guard
   ```
+
+* Run Test suite
+  ```
+  bundle exec rspec
+  ```
