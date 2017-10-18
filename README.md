@@ -1,4 +1,23 @@
-# Setup
+# Usage Instructions
+
+* Fork and/or clone the repo
+  ```
+  git clone https://github.com/ltfschoen/bitwise
+  ```
+* Install dependencies
+  ```
+  bundle install
+  ```
+* Run tests
+  ```
+  bundle exec rspec
+  ```
+* OPTIONAL - Run Guard to automatically run test when code changes
+  ```
+  bundle exec guard
+  ```
+
+# Initial Setup
 
 * Create project directory
   ```
